@@ -22,8 +22,14 @@ mundo.
 - Mouse movimenta a câmera
 - Botão esquerdo mouse realiza ações ( coletar itens )
 - Botão direito mouse abre/fecha inventário
+- Pressione "Esc" para sair
 
 ## Como jogar
 
-- Extrair arquivos da pasta build.zip
-- Os itens **coletáveis** encontram-se na **primeira sala a esquerda**. Eles aparecem no **minimapa** também.
+- Extrair arquivos zipados [Build.rar](Build.rar) e executar o arquivo .exe
+- Os itens **coletáveis** aparecem no **minimapa**.
+
+
+![](instituto_print.png)
+![](instituto_print2.png)
+
